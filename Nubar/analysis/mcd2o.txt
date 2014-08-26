@@ -1,0 +1,3 @@
+/Volumes/shokair@nubar.hep.upenn.edu/ntuples/sort/mc_d2o_2.root
+/Volumes/shokair@nubar.hep.upenn.edu/ntuples/sort/mc_d2o_1.root
+/Volumes/shokair@nubar.hep.upenn.edu/ntuples/sort/mc_d2o_3.root

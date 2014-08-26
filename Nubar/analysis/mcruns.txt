@@ -1,0 +1,5 @@
+/Volumes/shokair@nubar.hep.upenn.edu/ntuples/sort/mc_lw_3.root
+/Volumes/shokair@nubar.hep.upenn.edu/ntuples/sort/mc_lw_4.root
+/Volumes/shokair@nubar.hep.upenn.edu/ntuples/sort/mc_lw_6.root
+/Volumes/shokair@nubar.hep.upenn.edu/ntuples/sort/mc_lw_7.root
+/Volumes/shokair@nubar.hep.upenn.edu/ntuples/sort/mc_lw_11.root

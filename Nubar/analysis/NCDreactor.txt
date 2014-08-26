@@ -1,0 +1,9 @@
+/Volumes/shokair@nu.hep.upenn.edu/ntuples/sort/mc_ncd_r_acr_1.root
+/Volumes/shokair@nu.hep.upenn.edu/ntuples/sort/mc_ncd_r_acr_3.root
+/Volumes/shokair@nu.hep.upenn.edu/ntuples/sort/mc_ncd_r_out_1.root
+/Volumes/shokair@nu.hep.upenn.edu/ntuples/sort/mc_ncd_r_out_2.root
+/Volumes/shokair@nu.hep.upenn.edu/ntuples/sort/mc_ncd_r1.root
+/Volumes/shokair@nu.hep.upenn.edu/ntuples/sort/mc_ncd_r2.root
+/Volumes/shokair@nu.hep.upenn.edu/ntuples/sort/mc_ncd_r3.root
+/Volumes/shokair@nu.hep.upenn.edu/ntuples/sort/mc_ncd_r4.root
+/Volumes/shokair@nu.hep.upenn.edu/ntuples/sort/mc_ncd_r5.root

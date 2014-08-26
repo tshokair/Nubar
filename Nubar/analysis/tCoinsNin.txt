@@ -1,0 +1,6 @@
+17009 ncd events and 1943 pmt events
+5072 coincidences
+90 3-folds
+3244 2-fold (n,n)
+1684 2-fold (n,e+)
+Run started on day -999999 at time -1e+06 and ended on day 11092 at time 35290.6

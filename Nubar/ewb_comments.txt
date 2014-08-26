@@ -1,0 +1,70 @@
+Comments on plots from 7/25/2014 EDT
+
+Strange - figures with the color scale do not show the colors when I
+execute the macros, but they are there when I save the canvas to a
+pdf.
+
+These comments are in alphabetical order.
+
+Eliminate the titles on all.
+
+===============================================================================
+
+drdtSevMC.pdf
+
+Can this be expanded by a factor of two or so on each axis and include
+accidentals at the rate they appear in the data?  Then draw lines at
+the cuts (the present boundaries) to indicate the selection criterion.
+
+I would also make the data solid red dots or something that shows up
+better than the marker that is there now.
+
+===============================================================================
+
+drdtSMC.pdf
+
+If the one above works, this one may not be needed.
+
+===============================================================================
+
+dtSevMC.pdf
+
+Eliminate the stats box.  How many data events are in this plot?
+
+===============================================================================
+
+energyS.pdf
+
+Is this total energy?  It should be kinetic energy. 
+Can you show the full distribution and put the threshold in as a
+TLine?  It would show how much of the positron spectrum you see.
+Also, since the threshold is in the middle of a bin, the first
+non-xero bin looks as if the distribution is decreasing because some
+events are cut out.
+
+===============================================================================
+
+Epi_v_Epe_S.pdf
+
+What energy is this? It should be kinetic (visible) energy.  The
+figure caption says the cuts represent the threshold of 2.7 MeV, but
+neither is at 2.7 MeV.  I think the threshold on the primary is not
+supposed to be 2.7 MeV - isn't it 3.5 MeV?
+
+===============================================================================
+
+nDandS.pdf
+
+Same comment as energyS.pdf. Can you show the full distribution and
+the location of the cut?
+
+===============================================================================
+
+sigNoise_salt.pdf
+
+I think this one is OK.
+
+===============================================================================
+
+
+

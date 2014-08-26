@@ -1,0 +1,133 @@
+{
+//=========Macro generated from canvas: c1/c1
+//=========  (Tue Jun 26 14:52:03 2012) by ROOT version5.28/00a
+    gStyle->SetOptStat(0);
+    gStyle->SetOptTitle(0);
+    TCanvas *c1 = new TCanvas("c1", "c1",15,70,700,500);
+   c1->SetHighLightColor(2);
+   c1->Range(-0.0065,-0.02072368,0.0585,0.1865132);
+   c1->SetFillColor(0);
+   c1->SetBorderMode(0);
+   c1->SetBorderSize(2);
+   c1->SetFrameBorderMode(0);
+   c1->SetFrameBorderMode(0);
+   
+   TH1F *h1__1 = new TH1F("h1__1","Time Differences Salt",500,0,0.5);
+   h1__1->SetBinContent(1,0.1578947);
+   h1__1->SetBinContent(2,0.07894737);
+   h1__1->SetBinContent(3,0.1052632);
+   h1__1->SetBinContent(4,0.1052632);
+   h1__1->SetBinContent(5,0.07894737);
+   h1__1->SetBinContent(6,0.1052632);
+   h1__1->SetBinContent(7,0.07894737);
+   h1__1->SetBinContent(8,0.05263158);
+   h1__1->SetBinContent(9,0.05263158);
+   h1__1->SetBinContent(10,0.05263158);
+   h1__1->SetBinContent(11,0.02631579);
+   h1__1->SetBinContent(13,0.02631579);
+   h1__1->SetBinContent(14,0.05263158);
+   h1__1->SetBinContent(16,0.02631579);
+   h1__1->SetEntries(38);
+   h1__1->SetDirectory(0);
+   /*
+   TPaveStats *ptstats = new TPaveStats(0.78,0.835,0.98,0.995,"brNDC");
+   ptstats->SetName("stats");
+   ptstats->SetBorderSize(1);
+   ptstats->SetTextAlign(12);
+   TText *text = ptstats->AddText("h1");
+   text->SetTextSize(0.0368);
+   text = ptstats->AddText("Entries = 38     ");
+   text = ptstats->AddText("Mean  = 0.005342");
+   text = ptstats->AddText("RMS   = 0.004023");
+   ptstats->SetOptStat(1111);
+   ptstats->SetOptFit(0);
+   ptstats->Draw();
+   h1__1->GetListOfFunctions()->Add(ptstats);
+   ptstats->SetParent(h1__1->GetListOfFunctions());
+    */
+   h1__1->SetLineColor(4);
+   h1__1->GetXaxis()->SetTitle("Delta T [s]");
+   h1__1->GetXaxis()->SetRange(1,52);
+   h1__1->Draw("");
+   
+   TPaveText *pt = new TPaveText(0.01,0.945,0.3518391,0.995,"blNDC");
+   pt->SetName("title");
+   pt->SetBorderSize(2);
+   text = pt->AddText("Time Differences Salt");
+   pt->Draw();
+   
+   TH1F *h2__2 = new TH1F("h2__2","Time Differences Salt",500,0,0.5);
+   h2__2->SetBinContent(1,0.1818716);
+   h2__2->SetBinContent(2,0.1511602);
+   h2__2->SetBinContent(3,0.1212176);
+   h2__2->SetBinContent(4,0.09426025);
+   h2__2->SetBinContent(5,0.08173142);
+   h2__2->SetBinContent(6,0.06752906);
+   h2__2->SetBinContent(7,0.0522864);
+   h2__2->SetBinContent(8,0.04455199);
+   h2__2->SetBinContent(9,0.0375865);
+   h2__2->SetBinContent(10,0.02962594);
+   h2__2->SetBinContent(11,0.02383645);
+   h2__2->SetBinContent(12,0.02053462);
+   h2__2->SetBinContent(13,0.01546881);
+   h2__2->SetBinContent(14,0.01393098);
+   h2__2->SetBinContent(15,0.01049346);
+   h2__2->SetBinContent(16,0.009227011);
+   h2__2->SetBinContent(17,0.007282102);
+   h2__2->SetBinContent(18,0.006784567);
+   h2__2->SetBinContent(19,0.005608576);
+   h2__2->SetBinContent(20,0.004115971);
+   h2__2->SetBinContent(21,0.003347053);
+   h2__2->SetBinContent(22,0.003482745);
+   h2__2->SetBinContent(23,0.002804288);
+   h2__2->SetBinContent(24,0.002306753);
+   h2__2->SetBinContent(25,0.002216292);
+   h2__2->SetBinContent(26,0.001447374);
+   h2__2->SetBinContent(27,0.0008141481);
+   h2__2->SetBinContent(28,0.0009950699);
+   h2__2->SetBinContent(29,0.0008593785);
+   h2__2->SetBinContent(30,0.0002261522);
+   h2__2->SetBinContent(31,0.0004975349);
+   h2__2->SetBinContent(32,0.0004070741);
+   h2__2->SetBinContent(33,0.0002261522);
+   h2__2->SetBinContent(34,0.0002261522);
+   h2__2->SetBinContent(35,0.0001356913);
+   h2__2->SetBinContent(36,0.0002261522);
+   h2__2->SetBinContent(37,0.0002261522);
+   h2__2->SetBinContent(38,0.0001356913);
+   h2__2->SetBinContent(39,9.04609e-05);
+   h2__2->SetBinContent(40,4.523045e-05);
+   h2__2->SetBinContent(43,4.523045e-05);
+   h2__2->SetBinContent(45,4.523045e-05);
+   h2__2->SetBinContent(46,4.523045e-05);
+   h2__2->SetBinContent(47,4.523045e-05);
+   h2__2->SetEntries(22109);
+   h2__2->SetDirectory(0);
+   	h2__2->SetLineStyle(2);
+    /*
+   ptstats = new TPaveStats(0.78,0.835,0.98,0.995,"brNDC");
+   ptstats->SetName("stats");
+   ptstats->SetBorderSize(1);
+   ptstats->SetFillColor(0);
+   ptstats->SetTextAlign(12);
+   text = ptstats->AddText("h2");
+   text->SetTextSize(0.0368);
+   text = ptstats->AddText("Entries = 22109  ");
+   text = ptstats->AddText("Mean  = 0.005065");
+   text = ptstats->AddText("RMS   = 0.005077");
+   ptstats->SetOptStat(1111);
+   ptstats->SetOptFit(0);
+   ptstats->Draw();
+    
+   h2__2->GetListOfFunctions()->Add(ptstats);
+   ptstats->SetParent(h2__2->GetListOfFunctions());*/
+   h2__2->GetXaxis()->SetRange(1,52);
+   h2__2->Draw("same");
+	leg= new TLegend(0.6,0.7,0.89,0.89);
+	leg->AddEntry(h2__2,"Monte Carlo", "l");
+	leg->AddEntry(h1__1,"Data ", "l");
+	leg->Draw();
+   c1->Modified();
+   c1->cd();
+   c1->SetSelected(c1);
+}

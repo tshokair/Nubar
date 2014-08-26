@@ -1,0 +1,37 @@
+Strange coloring:
+I think i didn’t set gStyle to plain earlier. Should be taken care of now. 
+
+All Titles have been eliminated. 
+
+===============================================================================
+
+drdtSevMC.pdf ———> drdtAll.C
+
+Figure is expanded. 
+
+I have the distribution for accidentals now attached as well (drdtSacc.C), but I’m not sure of the best way to include this with the other plot. Do you have thoughts on how to display two color maps together? 
+
+===============================================================================
+
+dtSevMC.pdf
+
+Stats box eliminated, and 38 data events are included. 
+
+===============================================================================
+
+energyS.pdf
+
+Should now be fixed to display kinetic energy at a lower threshold, with the cut thresholds shown on the plot as TLines. The reason for the odd behavior at the low end, if I recall correctly, is that trigger efficiency was not good until about 2.7 MeV.
+
+===============================================================================
+
+Epi_v_Epe_S.pdf
+
+Should be taken care of now, but the distribution does change if you lower the primary and predecessor cuts. I need to think about this a little bit more. 
+
+===============================================================================
+
+
+nDandS.pdf
+
+I’ve put in the cut as a TLine, but I need to locate my generated neutron data to re-run the analysis to extend the spectrum. I’ll keep working on this. 

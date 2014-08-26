@@ -1,0 +1,24 @@
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{1}
+
+\bibitem{snoantinu}
+B.~Aharmim \emph{et. al.}, \emph{Electron antineutrino search at the sudbury
+  neutrino observatory}, Physical Reviw D \textbf{70} (2004), no.~092014, 1--8.
+
+\bibitem{snoNIM}
+J~Boger \emph{et. al.}, \emph{The sudbury neutrino observatory}, Nuclear
+  Instruments and Methods in Physics Research Section A: Accelerators,
+  Spectrometers, Detectors and Associated Equipment \textbf{449} (2000),
+  no.~1‚{\"A}{\`\i}2, 172 -- 207.
+
+\bibitem{skSolar}
+Y.~Gando \emph{et. al}, \emph{Search for $\bar{\nu}_e$ from the sun at
+  super-kamiokande}, Phys. Rev. Lett. \textbf{90} (2003), no.~17, 171302.
+
+\end{thebibliography}

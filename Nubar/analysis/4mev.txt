@@ -1,0 +1,11 @@
+/Volumes/shokair@nu.hep.upenn.edu/ntuples/sort/mc_d2o_acr_4mev_1.root
+/Volumes/shokair@nu.hep.upenn.edu/ntuples/sort/mc_d2o_acr_4mev_2.root
+/Volumes/shokair@nu.hep.upenn.edu/ntuples/sort/mc_d2o_acr_4mev_3.root
+/Volumes/shokair@nu.hep.upenn.edu/ntuples/sort/mc_d2o_acr_4mev_4.root
+
+
+
+
+
+
+

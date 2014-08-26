@@ -1,0 +1,10 @@
+
+
+
+/Users/timshokair/Desktop/analysismc_b8cc_014190_p4.root
+/Users/timshokair/Desktop/analysismc_b8nc_015997_p1.root
+/Users/timshokair/Desktop/analysisrun_nuebar_b8_cc_rsp15978_combined.root
+/Users/timshokair/Desktop/analysissno_010142_p2.root
+/Users/timshokair/Desktop/analysissno_012167_p2.root
+/Users/timshokair/Desktop/analysissno_012500_p3.root
+/Users/timshokair/Desktop/analysissno_012502_p3.root
